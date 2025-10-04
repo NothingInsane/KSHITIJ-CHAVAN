@@ -1,10 +1,7 @@
-#What is a System-on-Chip (SoC)?<br>
-
-A System-on-Chip (SoC) is a single, integrated circuit that combines all the components of an entire computer or electronic system onto a single silicon die. This includes a central processing unit (CPU), memory (RAM/ROM), input/output (I/O) ports, and other peripherals, all interconnected within one chip. By integrating these components, SoCs achieve significant advantages in size, power consumption, and performance compared to older designs where separate chips for each function were mounted on a printed circuit board (PCB).
 
 <details>
   <summary> What is SoC ? </summary>
-  A System-on-Chip (SoC) is a single, integrated circuit that combines all the components of an entire computer or electronic system onto a single silicon die. This includes a central processing unit (CPU), memory (RAM/ROM), input/output (I/O) ports, and other peripherals, all interconnected within one chip. By integrating these components, SoCs achieve significant advantages in size, power consumption, and performance compared to older designs where separate chips for each function were mounted on a printed circuit board (PCB).
+  A System-on-Chip(SoC) is a single , integrated circuit that combines all the components of an entire computer or electronic system onto a single silicon die. This includes a central processing unit (CPU), memory (RAM/ROM), input/output (I/O) ports, and other peripherals, all interconnected within one chip. By integrating these components, SoCs achieve significant advantages in size, power consumption, and performance compared to older designs where separate chips for each function were mounted on a printed circuit board (PCB).
 </details>
 
 <details>
